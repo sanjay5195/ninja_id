@@ -23,7 +23,7 @@ class _NinjaCardState extends State<NinjaCard> {
         elevation: 0.10,
       ),
       body: Padding(
-        padding: EdgeInsets.fromLTRB(30.0, 40.0, 30.0, 0.0),
+        padding: EdgeInsets.fromLTRB(30.0, 40.0, 30.0, 1.0),
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.start,
           children: <Widget>[
